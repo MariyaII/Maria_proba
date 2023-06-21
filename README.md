@@ -1,1 +1,3 @@
-# Maria_proba
+# Demo Repository
+
+This is the demo repository for Stech May 2023 in SoftUni
